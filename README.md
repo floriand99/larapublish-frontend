@@ -1,24 +1,7 @@
-# larablog-front
+# LaraPublish
 
-## Project setup
-```
-npm install
-```
+The frontend for Larapublish. An article publishing platform, in which users can publish/edit/delete/like articles etc.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+You can view it in the following link:
+https://determined-darwin-f81d01.netlify.app/
